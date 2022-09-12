@@ -1,4 +1,4 @@
 # Unity-as3_4
 
 
-Assets and Libary folder remaining to upload.
+Note: Assets and Libary folder yet to be pushed.
